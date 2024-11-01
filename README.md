@@ -7,3 +7,5 @@ this is the last time
 ## Development logs?
 Please no \
 more logging and journaling is the last thing i need right now
+DOES THSI WORK DOES HTI N
+DONT PUSH DODNTPUSH!!!
