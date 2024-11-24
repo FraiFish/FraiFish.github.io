@@ -138,7 +138,7 @@ img {
     border-color: var(--row-border-color);
     border-style: dotted hidden;
     /* the size of the dots */
-    border-width: 0.06rem;
+    border-width: 0.6rem;
     margin-bottom: 1%;
 }
 
