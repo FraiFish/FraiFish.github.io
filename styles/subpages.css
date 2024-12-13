@@ -257,18 +257,41 @@ footer > img {
     font-size: 18px;
 }
 
+/*links list*/
+
+
+ul {
+    width:20%;
+    align-content: center;
+}
+
 li {
     background-color: var(--active-color);
     margin-top: 0.2rem;
     margin-bottom: 0.2rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
     font-size: 1.2rem;
+    padding: 1rem 0.4rem;
+}
+li > a {
+    display: block;
+    width: 6rem;
+    text-align: center;
+    background-color: var(--active-color);
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    font-size: 1.2rem;
+    padding: 1rem 0.8rem;
 }
 li > a:hover {
     background-color: var(--topnav-color);
-    color: var(--page-color);
+    color: var(--active-color);
 }
+
+li > a:visited:hover {
+    color: var(--active-color);
+}
+
+
 /* literally just center class */
 .centered {
     text-align: center;
