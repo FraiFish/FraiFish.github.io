@@ -257,6 +257,18 @@ footer > img {
     font-size: 18px;
 }
 
+li {
+    background-color: var(--active-color);
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1.2rem;
+}
+li > a:hover {
+    background-color: var(--topnav-color);
+    color: var(--page-color);
+}
 /* literally just center class */
 .centered {
     text-align: center;
