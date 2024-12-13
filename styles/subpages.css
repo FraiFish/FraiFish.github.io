@@ -260,7 +260,7 @@ footer > img {
 /*links list*/
 
 ul {
-    width:20%;
+    width:40%;
     align-content: center;
 }
 
@@ -290,7 +290,8 @@ li > a:visited:hover {
 }
 .listtext {
     padding: 0;
-    margin: 0 0 0.5rem;
+    color: var(--text-color);
+    margin: 0 0.6rem 0.5rem;
 }
 
 /* literally just center class */
