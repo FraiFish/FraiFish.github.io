@@ -259,18 +259,16 @@ footer > img {
 
 /*links list*/
 
-
 ul {
     width:20%;
     align-content: center;
 }
 
 li {
-    background-color: var(--active-color);
     margin-top: 0.2rem;
     margin-bottom: 0.2rem;
     font-size: 1.2rem;
-    padding: 1rem 0.4rem;
+    padding: 0.1rem 0.4rem;
 }
 li > a {
     display: block;
@@ -292,7 +290,7 @@ li > a:visited:hover {
 }
 .listtext {
     padding: 0;
-    margin: 0;
+    margin: 0 0 0.5rem;
 }
 
 /* literally just center class */
