@@ -272,7 +272,7 @@ li {
 }
 li > a {
     display: block;
-    width: 6rem;
+    width: 12rem;
     text-align: center;
     background-color: var(--active-color);
     margin-top: 0.2rem;
