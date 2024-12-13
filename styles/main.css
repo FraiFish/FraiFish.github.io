@@ -69,7 +69,7 @@ header > .topnav {
     grid-column-gap: .5%;
     /* idfk bro help me */
     /* this code creates 12 columns with auto size, why do i need this*/
-    grid-template-columns: repeat(18, auto);
+    grid-template-columns: repeat(7, auto);
     grid-auto-columns: min-content;
 }
 
