@@ -290,7 +290,7 @@ li > a:visited:hover {
 }
 .listtext {
     padding: 0;
-    color: var(--text-color);
+    color: var(--link-visited-color);
     margin: 0 0.6rem 0.5rem;
 }
 
