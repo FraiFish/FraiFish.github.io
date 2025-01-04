@@ -17,6 +17,9 @@ function showTime() {
     else if (mnth === 11 || dte < 3) {
         hour -= 1;
     }
+    else if (mnth <= 1) {
+        hour -= 1;
+    }
     else if (mnth === 2 && dte <= 10) {
         hour -= 1;
     }
